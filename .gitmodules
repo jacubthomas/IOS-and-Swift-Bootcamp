@@ -7,3 +7,6 @@
 [submodule "Magic-8-Ball-iOS13"]
 	path = Magic-8-Ball-iOS13
 	url = https://github.com/appbrewery/Magic-8-Ball-iOS13
+[submodule "Calculator-Layout-iOS13"]
+	path = Calculator-Layout-iOS13
+	url = https://github.com/appbrewery/Calculator-Layout-iOS13
