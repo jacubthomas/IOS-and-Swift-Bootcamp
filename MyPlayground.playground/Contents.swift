@@ -1,10 +1,19 @@
-import UIKit
+//import UIKit
+//
+//var greeting = "Hello, playground"
+//
+//print (greeting)
+//
+//print ("Bye, playground")
+//
+//print ("Insert code in between; 2 + 2 = \(2 + 3)")
 
-var greeting = "Hello, playground"
+func greeting() {
+    print("Hello")
+}
 
-print (greeting)
+for _ in 0 ..< 4 {
+    greeting()
+}
 
-print ("Bye, playground")
-
-print ("Insert code in between; 2 + 2 = \(2 + 3)")
-
+var myAge: String = "Three"

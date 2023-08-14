@@ -10,3 +10,6 @@
 [submodule "Calculator-Layout-iOS13"]
 	path = Calculator-Layout-iOS13
 	url = https://github.com/appbrewery/Calculator-Layout-iOS13
+[submodule "Xylophone-iOS13"]
+	path = Xylophone-iOS13
+	url = https://github.com/appbrewery/Xylophone-iOS13
