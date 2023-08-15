@@ -13,3 +13,6 @@
 [submodule "Xylophone-iOS13"]
 	path = Xylophone-iOS13
 	url = https://github.com/appbrewery/Xylophone-iOS13
+[submodule "EggTimer-iOS13"]
+	path = EggTimer-iOS13
+	url = https://github.com/appbrewery/EggTimer-iOS13
